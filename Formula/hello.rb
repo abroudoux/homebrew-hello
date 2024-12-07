@@ -1,0 +1,1 @@
+/opt/homebrew/Library/Taps/homebrew/homebrew-core/Formula/h/hello.rb
