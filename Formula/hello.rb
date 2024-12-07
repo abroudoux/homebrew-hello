@@ -1,5 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
 class Hello < Formula
     desc "Homebrew Test Package"
     homepage "https://github.com/abroudoux/hello"
